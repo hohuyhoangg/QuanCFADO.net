@@ -1,0 +1,24 @@
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\bin\Debug\QuanLiQuanCafeHoang.exe.config
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\bin\Debug\QuanLiQuanCafeHoang.exe
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\bin\Debug\QuanLiQuanCafeHoang.pdb
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.csprojAssemblyReference.cache
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fLogin.resources
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.Properties.Resources.resources
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.csproj.GenerateResource.cache
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.exe
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.pdb
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fTableManager.resources
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fAccountProfile.resources
+D:\NAM 2\Kì II\Tự học\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fAdmin.resources
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\bin\Debug\QuanLiQuanCafeHoang.exe.config
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\bin\Debug\QuanLiQuanCafeHoang.exe
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\bin\Debug\QuanLiQuanCafeHoang.pdb
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.csprojAssemblyReference.cache
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fAccountProfile.resources
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fAdmin.resources
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fLogin.resources
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.fTableManager.resources
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.Properties.Resources.resources
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.csproj.GenerateResource.cache
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.exe
+D:\NAM 2\Kì II\HOME\WINFORM\QuanLyQuanCF\QuanLiQuanCafeHoang\QuanLiQuanCafeHoang\obj\Debug\QuanLiQuanCafeHoang.pdb
